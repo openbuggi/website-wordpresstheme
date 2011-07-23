@@ -1,0 +1,10 @@
+Openbuggi Wordpress theme uses Creative Commons Attribution 3.0 Unported (CC BY 3.0)
+
+You are entitled to
+Share — to copy, distribute and transmit the work
+Remix — to adapt the work
+Make commercial use of the work
+
+but you must attribute the original author (Openbuggi.org)
+
+Please see http://creativecommons.org/licenses/by/3.0/ for further details
